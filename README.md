@@ -21,7 +21,7 @@ Website ini adalah platform pencarian berita yang dirancang untuk memberikan pen
 Clone repositori ini:
 
 ```bash
-git clone https://github.com/username/nama-repositori.git
+git clone https://github.com/yastar123/-Website-Pencarian-Berita-dengan-HTML-CSS-dan-Bootstrap.git
 ```
 
 Buka file `index.html` di browser untuk melihat website.
