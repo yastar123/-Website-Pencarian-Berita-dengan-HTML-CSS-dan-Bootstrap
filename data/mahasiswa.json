@@ -1,0 +1,19 @@
+[{
+    "nama" : "Edu Juanda Pratama",
+    "nim" : "123320012",
+    "prodi" : "Teknik Fisika",
+    "idMahasiswa" : "1"
+},
+{
+    "nama" : "Dini Novita",
+    "nim" : "123320020",
+    "prodi" : "Teknik Kimia",
+    "idMahasiswa" : "2"
+},
+{
+    "nama" : "Triwahyuni",
+    "nim" : "123320012",
+    "prodi" : "Teknik Elektro",
+    "idMahasiswa" : "3"
+}
+]
